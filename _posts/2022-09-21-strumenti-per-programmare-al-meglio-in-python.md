@@ -21,7 +21,7 @@ Programmare è gia di per se impegnativo, meglio essere preparati no? Ecco a voi
 
 ## Cheatsheets
 
-![](https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F4158089%2Faefc1f45c5dd7c1c7444d6eb7d0fbad6%2Fdfgh.PNG?generation=1586119507549250&alt=media)
+![cheatsheet](https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F4158089%2Faefc1f45c5dd7c1c7444d6eb7d0fbad6%2Fdfgh.PNG?generation=1586119507549250&alt=media)
 
 Ti stai allenando scrivendo il prossimo compilatore per il COBOL in python?
 

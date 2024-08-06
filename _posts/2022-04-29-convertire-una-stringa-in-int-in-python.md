@@ -9,7 +9,7 @@ tags:
   - "python"
   - "strings"
   - "technology"
-coverImage: "program-code-on-pc-screen-2021-08-28-12-44-05-utc-scaled.jpg"
+coverImage: "images/program-code-on-pc-screen-2021-08-28-12-44-05-utc-scaled.jpg"
 ---
 
 Ti serve convertire una stringa in un intero? Se può esservi utile in un vostro progetto, come l'implementazione da zero di RSA, questo è il posto giusto per saperlo.
