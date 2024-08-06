@@ -7,7 +7,7 @@ tags:
   - "ai"
   - "datamanipulation"
   - "python"
-coverImage: "images/lkanFrg.jpg"
+coverImage: "/assets/images/lkanFrg.jpg"
 ---
 
 L'intelligenza artificiale (IA) sta rivoluzionando il modo in cui interagiamo con la tecnologia e con il mondo che ci circonda. L'IA utilizza algoritmi sofisticati e metodi di apprendimento automatico per consentire alle macchine di imparare dai dati e di eseguire attività che richiedono intelligenza umana. Python, un linguaggio di programmazione estremamente versatile e potente, è diventato uno dei principali strumenti utilizzati per sviluppare applicazioni di intelligenza artificiale. In questo articolo esploreremo il ruolo di Python nell'IA e come sia diventato un pilastro fondamentale per i progetti di intelligenza artificiale.
@@ -16,7 +16,7 @@ L'intelligenza artificiale (IA) sta rivoluzionando il modo in cui interagiamo co
 
 Python è un linguaggio di programmazione ad alto livello che si caratterizza per la sua sintassi intuitiva e leggibile. Queste caratteristiche rendono Python un'opzione ideale per lo sviluppo di applicazioni di intelligenza artificiale, in quanto consente agli sviluppatori di scrivere codice più conciso e comprensibile. Inoltre, Python offre una vasta gamma di librerie e framework specifici per l'apprendimento automatico, come [TensorFlow](https://www.tensorflow.org/?hl=it), [Keras](https://keras.io/) e [PyTorch](https://pytorch.org/), che semplificano notevolmente la creazione e l'addestramento dei modelli di intelligenza artificiale.
 
-![](images/What-Is-Machine-Learning-Artificial-Intelligence-With-Python-Edureka-960x254.png)
+![](/assets/images/What-Is-Machine-Learning-Artificial-Intelligence-With-Python-Edureka-960x254.png)
 
 Python offre anche una serie di librerie specializzate per la manipolazione e l'analisi dei dati, come NumPy, Pandas e SciPy, che sono essenziali per l'elaborazione dei dati utilizzati nell'apprendimento automatico. Queste librerie forniscono funzioni avanzate per la gestione dei dati, l'estrazione delle caratteristiche, la normalizzazione dei dati e molto altro ancora, facilitando così lo sviluppo di modelli di intelligenza artificiale precisi ed efficienti.
 
@@ -39,7 +39,7 @@ L'altro strumento importante è pandas, una libreria open source che fornisce ag
 **Matplotlib**  
 Matplotlib è una libreria di plottaggio 2D che crea figure di qualità di pubblicazione. I suoi vantaggi sono la disponibilità di 6 toolkit di interfacce utente grafiche, server di applicazioni Web e script Python.
 
-![](images/1200px-Scikit_learn_logo_small.svg_-960x517.png)
+![](/assets/images/1200px-Scikit_learn_logo_small.svg_-960x517.png)
 
 **Scikit-learn**  
 Scikit-learn è uno strumento efficiente per l'analisi dei dati. È open source e utilizzabile commercialmente. È la libreria di apprendimento automatico per uso generico più popolare.

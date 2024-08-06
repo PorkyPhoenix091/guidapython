@@ -44,7 +44,7 @@ Dovresti vedere l'output "Hello, World!" nel terminale.
 
 5. Imparare i fondamenti: Python offre molti concetti fondamentali come variabili, tipi di dati, operatori, condizioni, cicli, funzioni e molto altro. Puoi trovare numerosi tutorial online, documentazione ufficiale e risorse didattiche per apprendere i fondamenti di Python.
 
-![la potenza di git non ha limite!](images/image-6-edited.png)
+![la potenza di git non ha limite!](/assets/images/image-6-edited.png)
 
 ### Ora passiamo a Git:
 

@@ -9,12 +9,12 @@ tags:
   - "python"
   - "strings"
   - "technology"
-coverImage: "images/program-code-on-pc-screen-2021-08-28-12-44-05-utc-scaled.jpg"
+coverImage: "/assets/images/program-code-on-pc-screen-2021-08-28-12-44-05-utc-scaled.jpg"
 ---
 
 Ti serve convertire una stringa in un intero? Se può esservi utile in un vostro progetto, come l'implementazione da zero di RSA, questo è il posto giusto per saperlo.
 
-![](images/writing-programming-code-on-laptop-2021-08-30-05-42-12-utc-960x302.jpg)
+![](/assets/images/writing-programming-code-on-laptop-2021-08-30-05-42-12-utc-960x302.jpg)
 
 Per convertire una **stringa in int** si possono usare due modi:
 
