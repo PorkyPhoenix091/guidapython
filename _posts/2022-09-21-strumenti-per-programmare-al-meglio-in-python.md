@@ -14,7 +14,7 @@ tags:
   - "python3"
   - "technology"
   - "webscraping"
-coverImage: "grafica-toolkit-gp.jpg"
+coverImage: "images/grafica-toolkit-gp.jpg"
 ---
 
 Programmare è gia di per se impegnativo, meglio essere preparati no? Ecco a voi quindi una lista di strumenti e librerie per tutti i vostri progetti e, chissà, anche per darvi qualche idea per un futuro progetto!

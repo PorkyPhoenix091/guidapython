@@ -7,7 +7,7 @@ tags:
   - "ai"
   - "datamanipulation"
   - "python"
-coverImage: "lkanFrg.jpg"
+coverImage: "images/lkanFrg.jpg"
 ---
 
 L'intelligenza artificiale (IA) sta rivoluzionando il modo in cui interagiamo con la tecnologia e con il mondo che ci circonda. L'IA utilizza algoritmi sofisticati e metodi di apprendimento automatico per consentire alle macchine di imparare dai dati e di eseguire attività che richiedono intelligenza umana. Python, un linguaggio di programmazione estremamente versatile e potente, è diventato uno dei principali strumenti utilizzati per sviluppare applicazioni di intelligenza artificiale. In questo articolo esploreremo il ruolo di Python nell'IA e come sia diventato un pilastro fondamentale per i progetti di intelligenza artificiale.

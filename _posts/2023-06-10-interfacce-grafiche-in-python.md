@@ -9,7 +9,7 @@ tags:
   - "gui"
   - "programming"
   - "python"
-coverImage: "image.png"
+coverImage: "images/image.png"
 ---
 
 DearPyGui è una potente libreria che ci permette di creare Interfacce Grafiche(GUI) in [Python](https://avid3855894.altervista.org/strumenti-per-programmare-al-meglio-in-python/). È progettato per essere semplice da utilizzare e offre una vasta gamma di funzionalità per la creazione di interfacce grafiche interattive e professionali. Con DearPyGui, puoi creare finestre, aggiungere widget come pulsanti, caselle di testo, grafici e altro ancora. Puoi personalizzare l'aspetto della tua interfaccia utilizzando stili predefiniti o creando i tuoi stili personalizzati. Inoltre, DearPyGui offre funzionalità avanzate come il drag-and-drop, la gestione degli eventi, la serializzazione dei layout e la compatibilità con la libreria NumPy per la visualizzazione dei dati.Una delle caratteristiche distintive di DearPyGui è la sua velocità. Grazie all'implementazione ottimizzata, DearPyGui è in grado di gestire un gran numero di widget e di mantenere un'interattività fluida anche con interfacce grafiche complesse.

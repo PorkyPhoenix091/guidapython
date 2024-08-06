@@ -9,7 +9,7 @@ tags:
   - "git"
   - "github"
   - "python"
-coverImage: "copertina-git-python.jpg"
+coverImage: "images/copertina-git-python.jpg"
 ---
 
 Python e Git sono due strumenti ampiamente utilizzati nel campo dello sviluppo software. Vediamo come usare Python e Git insieme al meglio per gestire i nostri progetti con un [Version Control System](https://it.wikipedia.org/wiki/Controllo_versione#Programmi_e_sistemi_utilizzati) (git)
