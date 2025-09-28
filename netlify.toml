@@ -1,0 +1,8 @@
+[build]
+  command = "bundle install && JEKYLL_ENV=production bundle exec jekyll build"
+  publish = "_site"
+
+[build.environment]
+  RUBY_VERSION = "3.2.4"
+  BUNDLE_FORCE_RUBY_PLATFORM = "true"
+  BUNDLE_WITHOUT = "test:development"
